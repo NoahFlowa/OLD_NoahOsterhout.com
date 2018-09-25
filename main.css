@@ -1,0 +1,62 @@
+/* 
+Author: Noah Osterhout
+Date: January 16th 2018
+File: Main.CSS
+*/
+
+* {
+  font-family: "Open Sans", sans-serif;
+  color: #fefefe;
+  background-color: #101317;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+a,
+a:link,
+a:visited,
+a:active {
+  color: #22c2fc;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #fefefe;
+  text-decoration: inherit;
+}
+
+.jumbotron {
+  background-color: inherit;
+  font-weight: bold;
+  font-size: 5em;
+  text-align: center;
+  margin-top: 1.5em;
+  line-height: 0.75em;
+}
+
+.rowless th,
+.rowless td {
+  border-top: none !important;
+}
+
+.fa-color {
+  color: #fefefe;
+}
+
+.fa-color:hover {
+  color: #22c2fc;
+}
+
+footer {
+  align-content: center;
+}
+
+.bg-dark {
+  background-color: #101317 !important;
+}
+
+.ico-hover:hover {
+  color: #22c2fc;
+}
