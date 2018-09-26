@@ -11,6 +11,9 @@
   <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
     <ul class="navbar-nav mr-auto mt-2 mt-lg-0 justify-content-center">
       <li class="nav-item">
+        <a class="nav-link" style="color: #22c2fc;" href="https://noahosterhout.com/blog.php">blogs</a>
+      </li>
+      <li class="nav-item">
         <a class="nav-link" style="color: #22c2fc;" href="https://github.com/NoahFlowa">github</a>
       </li>
       <li class="nav-item">
