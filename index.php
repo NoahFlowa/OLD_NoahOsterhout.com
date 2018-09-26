@@ -45,9 +45,9 @@
       <?php require 'navbar.php'; ?>
 
       <!-- Jumbotron-->
-      <div class="jumbotron jumbotron-fluid">
-        <div class="container">
-          <h1 class="display-3"><strong>Noah <span style="color: #22c2fc;">O</span>sterhout</strong></h1>
+      <div class="jumbotron jumbotron-fluid mx-auto">
+        <div class="container-fluid">
+          <p class="display-3"><strong>Noah <span style="color: #22c2fc;">O</span>sterhout</strong></p>
           <p class="display-4 lead"><strong>Not Just Another <span style="color: #22c2fc;">P</span>rogrammer</strong></p>
         </div>
       </div>

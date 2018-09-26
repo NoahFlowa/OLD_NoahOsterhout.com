@@ -60,3 +60,8 @@ footer {
 .ico-hover:hover {
   color: #22c2fc;
 }
+
+@font-face {
+	font-family: abberancy;
+	src: url(abberancy.otf);
+}
