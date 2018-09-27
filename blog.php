@@ -39,6 +39,11 @@
 			background-color: #22c2fc;
 			color: #FFFFFF !important;
 		}
+		
+		.breadcrumb {
+			background-color: #101317;
+		}
+
 	</style>
 
 </head>
@@ -63,12 +68,21 @@
 				</div>
 			</div>
 
+			<nav aria-label="Blog Months">
+				<ol class="breadcrumb">
+					<li class="breadcrumb-item"><a href="">September 2018</a></li>
+					<li class="breadcrumb-item"><a href="">October 2018</a></li>
+					<li class="breadcrumb-item"><a href="">November 2018</a></li>
+					<li class="breadcrumb-item"><a href="">December 2018</a></li>
+				</ol>
+			</nav>
+
 			<div class="card-deck">
 				<div class="card">
 					<!-- <img class="card-img-top" src="/Images/Blog-Images/iPhoneXS.png" style="height:	180px; width: 220px; background-color: #101317" alt="iPhone XS Minimal"> -->
 					<div class="card-body">
 						<h5 class="card-title"><a href="/ahh-shit.php">iPhone XS Max Review</a></h5>
-						<p class="card-text">Does this years iPhone XS Max stand up to all the hype or does it fall short.  Is it really worth the $1100 starting price?  Read more to find out.</p>
+						<p class="card-text">Does this years iPhone XS Max stand up to all the hype or does it fall short. Is it really worth the $1100 starting price? Read more to find out.</p>
 					</div>
 					<div class="card-footer">
 						<small class="text-muted">Published: September 27th, 2018</small>
@@ -78,7 +92,7 @@
 					<!-- <img class="card-img-top" src="/Images/Blog-Images/iPhoneXS.png" style="height:	180px; width: 220px; background-color: #101317" alt="iPhone XS Minimal"> -->
 					<div class="card-body">
 						<h5 class="card-title">Apple October Event?</h5>
-						<p class="card-text">Apple didn't release any new iPads or even a refreash of their Macs but could a leak in iOS Setup prove their is an October event coming up?  Read more to find out!</p>
+						<p class="card-text">Apple didn't release any new iPads or even a refreash of their Macs but could a leak in iOS Setup prove their is an October event coming up? Read more to find out!</p>
 					</div>
 					<div class="card-footer">
 						<small class="text-muted">Published: September 28th, 2018</small>
@@ -88,7 +102,7 @@
 					<!-- <img class="card-img-top" src="/Images/Blog-Images/iPhoneXS.png" style="height:	180px; width: 220px; background-color: #101317" alt="iPhone XS Minimal"> -->
 					<div class="card-body">
 						<h5 class="card-title">iPhone XS Max Case Review</h5>
-						<p class="card-text">So you just bought that new iPhone, but wait, it's dangerous to go out without a case!  I review a few cases that were early to market and make the Max look good.</p>
+						<p class="card-text">So you just bought that new iPhone, but wait, it's dangerous to go out without a case! I review a few cases that were early to market and make the Max look good.</p>
 					</div>
 					<div class="card-footer">
 						<small class="text-muted">Published: October 4th, 2018</small>
