@@ -5,7 +5,7 @@
                 <p style="font-size: 1.5em; margin-top: .4em;">Focuses</p>
             </div>
             <div class="col-md-10" style="line-height: 3.5em">
-                <p style="font-size: 1.4em;">College | Personal Projects | Project <span style="color: #22c2fc;">Exodus</span> | Programming | Neural Networking | Investing</p>
+                <p style="font-size: 1.4em;">College | <a href="https://osterhoutklein.com">OK Enterprises</a> | The Enterprise | Programming | Neural Networking | Investing</p>
                 <br>
             </div>
         </div>
