@@ -14,12 +14,12 @@
                             <td style="color: #71767F">HTML5 | CSS3 | JavaScript | PHP | Python</td>
                         </tr>
                         <tr>
-                            <td>Web Libraries | Frameworks | Libraries</td>
-                            <td style="color: #71767F">Bootstrap 4 | JQuery | Angular |  Font Awesome | Vue | React | Flutter</td>
+                            <td>Web Libraries | Frameworks | Other Libraries</td>
+                            <td style="color: #71767F">Bootstrap | TypeScript | Angular |  Font Awesome | Flutter | NodeJS | Bun | Particle.JS</td>
                         </tr>
                         <tr>
                             <td>Object-Oriented Programming Languages</td>
-                            <td style="color: #71767F">Python | C# | C++ | Swift | Java | Dart | Kotlin | TypeScript</td>
+                            <td style="color: #71767F">Python | C# | C++ | Java | Dart | Kotlin | TypeScript</td>
                         </tr>
                         <tr>
                             <td>Database Stuff | Data Inerchange Languages</td>
@@ -27,11 +27,11 @@
                         </tr>
                         <tr>
                             <td>Certifications</td>
-                            <td style="color: #71767F"><a href="https://www.youracclaim.com/badges/cfd61f0f-2672-4491-87f9-19b7af2abf13" style="color: #22c2fc;">Database Fundamentals</a><br>Computer Studies - Assitant Developer Certificate from Northwestern Michigan College</td>
+                            <td style="color: #71767F"><a href="https://www.credly.com/badges/987fdc76-f75f-4d6f-87ae-87ce22f6b184" style="color: #22c2fc;">MTA: Software Fundamentals</a> Issued by Microsoft<br><a href="https://www.credly.com/badges/cfd61f0f-2672-4491-87f9-19b7af2abf13" style="color: #22c2fc;">MTA: Database Fundamentals</a> Issued by Microsoft</td>
                         </tr>
                         <tr>
                             <td>Applications | Enviroments</td>
-                            <td style="color: #71767F">Visual Studio Editors | XCode | Unity | Unreal | SSMS | DevServer | Photoshop | WordPress CMS | PHP My Admin | Docker</td>
+                            <td style="color: #71767F">Visual Studio Editors | XCode | Unity | Unreal | SSMS | Docker | Photoshop | WordPress CMS | PHP My Admin | Heroku</td>
                         </tr>
                         <tr>
                             <td>Command Line Interfaces</td>

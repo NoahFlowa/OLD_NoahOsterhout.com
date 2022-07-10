@@ -12,14 +12,30 @@
                         
                         <tr>
                             <td style="color: #71767F">2017 - Present</td>
-                            <td>Full-Time Student at Northwestern Michigan College and Ferris State University for Computer Information Systems as well as CEO at <a href="https://osterhoutklein.com">OK Enterprises</a></td>
+                            <td>Full-Time Student at Ferris State University for a Bachelors of Science in Computer Information Systems</a></td>
+                        </tr>
+                        <tr>
+                            <td style="color: #71767F">December 2022 </td>
+                            <?php
+                                $gradDate = "2022-12-25 00:00:00.0";
+                                $today = date("Y/m/d H:i:s");
+                                if ($gradDate > $today) {
+                                    echo "<td>Earned my Bachelors of Science at Ferris State University for Computer Information Systems!</td>";
+                                } else {
+                                    echo "<td>I will have earned my Bachelors of Science at Ferris State University for Computer Information Systems!</td>";
+                                }
+                            ?>
+                        </tr>
+                        <tr>
+                            <td style="color: #71767F">2021 </td>
+                            <td><a href="https://osterhoutklein.com">OK Enterprises</a> changes to Osterhout & Klein Enterprises LLC. however the partners decide to close it as we all pursue other ventures and fields than what the company was made for.  I personally learned a lot about owning and operating a business as well as how to set your own goals and see them finalized.</td>
                         </tr>
                         <tr>
                             <td style="color: #71767F">2020 </td>
                             <td>Changed <a href="https://osterhoutklein.com">OK Enterprises</a> to offer Business services such as IT, Software Development, Business Management, Marketing and more.  Founded <a href="https://osterhoutklein.org">OK Foundations</a> with Mark Klein to offer free services in light of Coronavirus.  Started Ferris University for Computer Information Systems.</td>
                         </tr>
                         <tr>
-                            <td style="color: #71767F">2019</td>
+                            <td style="color: #71767F">December 2019</td>
                             <td>Founded <a href="https://osterhoutklein.com">OK Enterprises</a> with friend, Mark Klein, to be an Umbrella Company for various ventures.</td>
                         </tr>
                         <tr>

@@ -15,7 +15,7 @@
                     </tr>
                     <tr>
                         <td style="color: #71767F">&copy; Noah Osterhout - <?php echo date("Y") ?></td>
-                        <td style="color: #71767F"><a href="mailto:noah@noahosterhout.com">noah@noahosterhout.com</a></td>
+                        <td style="color: #71767F"><a href="mailto:noah@noahosterhout.com">osterhoutn@gmail.com</a></td>
                     </tr>
                 </tbody>
             </table>

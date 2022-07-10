@@ -33,7 +33,7 @@
 
 </head>
 
-<body class="container-fluid">
+<body class="container-fluid" id="particles-js">
   <div class="row">
     <!-- This Div section is never used, only to create half-wide website -->
     <div class="col-md-1">
@@ -48,7 +48,7 @@
       <div class="jumbotron jumbotron-fluid mx-auto">
         <div class="container-fluid">
           <p class="display-3"><strong>Noah <span style="color: #22c2fc;">O</span>sterhout</strong></p>
-          <p class="display-4 lead"><strong>Not Just Another <span style="color: #22c2fc;">P</span>rogrammer</strong></p>
+          <p class="display-4 lead"><strong>Not Just Another <span style="color: #22c2fc;">Programmer</span></strong></p>
         </div>
       </div>
 
@@ -93,6 +93,7 @@
     crossorigin="anonymous"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/js/bootstrap.min.js" integrity="sha384-a5N7Y/aK3qNeh15eJKGWxsqtnX/wWdSZSKp+81YjTmS15nvnvxKHuzaWwXHDli+4"
     crossorigin="anonymous"></script>
+  <script src="particles.js"></script>
 </body>
 
 </html>
